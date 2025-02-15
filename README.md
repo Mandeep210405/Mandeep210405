@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **Mandeep210405@gmail.com**
 
-- 📄 Know about my experiences [https://mandeep210405.github.io/MyPortfolio/https://mandeep210405.github.io/MyPortfolio/](https://mandeep210405.github.io/MyPortfolio/https://mandeep210405.github.io/MyPortfolio/)
+- 📄 Know about my experiences https://mandeep210405.github.io/MyPortfolio/https://mandeep210405.github.io/MyPortfolio
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
